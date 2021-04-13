@@ -26,7 +26,6 @@ Below are the codes that I've made:
 
 * **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
 
-![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 ---
 
 
