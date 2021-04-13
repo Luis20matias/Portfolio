@@ -1,4 +1,3 @@
-@@ -1,2 +1,37 @@
 Template para portfólio de Data Science
 [![author](https://img.shields.io/badge/author-carlosfab-red.svg)](https://www.linkedin.com/in/carlosfab) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
 
@@ -7,18 +6,18 @@ Template para portfólio de Data Science
 </p>
 
 # Luís Fernando Matias 
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*Lead Data Scientist*</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+I am gradueted in Mecatronics Engineering at Federal Institute of Education, Science and Technology of Ceará (IFCE) in Brazil. Also I have  a technical course in Electrotechnical in IFCE.
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+Surching for new jobs with data science and Machine Learning using python laguage.
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+
+**Background in:** Python, Machine Learning.
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
-* [Medium](https://www.medium.com)
+* [LinkedIn](https://www.linkedin.com/in/lu%C3%ADs-fernando-matias-de-farias-52234b20a/)
+
 
 
 ## Projetos:
