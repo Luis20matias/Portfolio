@@ -13,7 +13,7 @@ I am gradueted in Mecatronics Engineering at Federal Institute of Education, Sci
 Surching for new jobs with data science and Machine Learning using python laguage.
 
 
-**Background in:** Python, Machine Learning.
+**Background in:** Python, Machine Learning, Arduido, Pic, Dspic, MATLAB.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/lu%C3%ADs-fernando-matias-de-farias-52234b20a/)
