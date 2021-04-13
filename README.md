@@ -11,7 +11,7 @@ I am gradueted in Mecatronics Engineering at Federal Institute of Education, Sci
 
 I've completed a english course at Municipal Human Resources Development Institute (Imparh) in Brazil.
 
-Surching for new jobs with data science and Machine Learning using python laguage.
+Surching for new remote jobs with data science and Machine Learning using python laguage.
 
 
 **Background in:** Python, Machine Learning, Arduido, Pic, Dspic, MATLAB, Deep Learning.
