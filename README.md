@@ -7,7 +7,7 @@
 # Luís Fernando Matias 
 <sub>*Lead Data Scientist*</sub>
 
-I am gradueted in Mecatronics Engineering at Federal Institute of Education, Science and Technology of Ceará (IFCE) in Brazil. Also I have  a technical course in Electrotechnical in IFCE.
+I am gradueted in Mecatronics Engineering at Federal Institute of Education, Science and Technology of Ceará (IFCE) in Brazil. Also I have a technical course in Electrotechnical at IFCE.
 
 I've completed a english course at Municipal Human Resources Development Institute (Imparh) in Brazil.
 
