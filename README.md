@@ -18,6 +18,7 @@ Surching for new remote jobs with data science and Machine Learning using python
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/lu%C3%ADs-fernando-matias-de-farias-52234b20a/)
+* [Medium](https://medium.com/@fluisfm20)
 
 
 
