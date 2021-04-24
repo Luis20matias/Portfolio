@@ -4,7 +4,7 @@
   <img src="banner_Luis.png" >
 </p>
 
-# Luís Fernando Matias 
+# Luís Fernando Matias de Farias
 <sub>* Data Scientist *</sub>
 
 I am graduated in Mechatronics Engineering from the Federal Institute of Education, Science, and Technology of Ceará (IFCE) in Brazil. Also, I have a technical course in Electrotechnical at IFCE.
