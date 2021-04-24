@@ -7,14 +7,14 @@
 # Luís Fernando Matias 
 <sub>* Data Scientist *</sub>
 
-I am gradueted in Mecatronics Engineering at Federal Institute of Education, Science and Technology of Ceará (IFCE) in Brazil. Also I have a technical course in Electrotechnical at IFCE.
+I am graduated in Mechatronics Engineering from the Federal Institute of Education, Science, and Technology of Ceará (IFCE) in Brazil. Also, I have a technical course in Electrotechnical at IFCE.
 
-I've completed a english course at Municipal Human Resources Development Institute (Imparh) in Brazil.
+I've completed an English course at Municipal Human Resources Development Institute (Imparh) in Brazil.
 
-Surching for new remote jobs with data science and Machine Learning using python laguage.
+Searching for new remote jobs with data science and Machine Learning using python language.
 
 
-**Background in:** Python, Machine Learning, Arduido, Pic, Dspic, MATLAB, Deep Learning.
+**Background in:** Python, Machine Learning, MATLAB and Deep Learning.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/lu%C3%ADs-fernando-matias-de-farias-52234b20a/)
