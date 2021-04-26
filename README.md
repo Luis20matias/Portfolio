@@ -25,7 +25,7 @@ Searching for new remote jobs with data science and Machine Learning using pytho
 ## Projects:
 Below are the codes that I've made:
 
-* **Data Science: Investigando o naufrágio do Titanic:** 
+* **Titanic: Machine Learning from disaster: ** 
 
 ---
 
