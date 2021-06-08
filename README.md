@@ -17,9 +17,10 @@
 **Background in:** Python, Machine Learning, MATLAB, Deep Learning, TensorFlow, and Scikit Learn.
 
 <p>
- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src= "https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"> <img src= "https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"> <img src= "https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+<img src= "https://github.com/valohai/ml-logos/blob/master/scikit-learn.svg" width="200" height="200"> <img src= "https://github.com/valohai/ml-logos/blob/master/pandas.svg" width="140" height="140"> <img src= "https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" width="140" height="140"> <img src= "https://github.com/valohai/ml-logos/blob/master/numpy.svg" width="140" height="140"> <img src= "https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg" width="50" height="140"> <img src= "https://github.com/valohai/ml-logos/blob/master/keras.svg" width="50" height="140"> 
 <p>
  
+
 ## :globe_with_meridians: Links and Email:
 * :page_with_curl: Check out my [LinkedIn](https://www.linkedin.com/in/lu%C3%ADs-fernando-matias-de-farias-52234b20a/)
 * :computer: How to reach me fluisfm20@gmail.com
