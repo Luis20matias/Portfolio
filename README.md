@@ -4,28 +4,28 @@
  <img src="Luis_portfolio.png" width="800" height="300"/ >
 <p>
 
-# Luís Fernando Matias de Farias
+# :pushpin: Luís Fernando Matias de Farias
 <sub>* Data Scientist *</sub>
 
-I am graduated in Mechatronics Engineering from the Federal Institute of Education, Science, and Technology of Ceará (IFCE) in Brazil. Also, I have a technical course in Electrotechnical at IFCE.
+* :mortar_board: I am graduated in Mechatronics Engineering from the Federal Institute of Education, Science, and Technology of Ceará (IFCE) in Brazil. Also, I have a technical course in Electrotechnical at IFCE.
 
-I've completed an English course at Municipal Human Resources Development Institute (Imparh) in Brazil.
+* :books: I've completed an English course at Municipal Human Resources Development Institute (Imparh) in Brazil.
 
-Searching for new remote jobs with data science and Machine Learning using python language.
+* :mag: Searching for new remote jobs with data science and Machine Learning using python language.
 
 
 **Background in:** Python, Machine Learning, MATLAB and Deep Learning.
 
-**Links:**
+## :globe_with_meridians: Links:
 * [LinkedIn](https://www.linkedin.com/in/lu%C3%ADs-fernando-matias-de-farias-52234b20a/)
 * [Medium](https://medium.com/@fluisfm20)
 
 
 
-## Projects:
+## :battery: Projects:
 Below are the codes that I've made:
 
-* **Titanic: Machine Learning from disaster:** https://bit.ly/2QFW37U
+* **:ship:  Titanic: Machine Learning from disaster:** https://bit.ly/2QFW37U
 
 ---
 
