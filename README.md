@@ -5,7 +5,7 @@
 <p>
 
 # :pushpin: Luís Fernando Matias de Farias
-<sub>* Data Scientist *</sub>
+## :dart: Data Scientist
 
 * :mortar_board: I am graduated in Mechatronics Engineering from the Federal Institute of Education, Science, and Technology of Ceará (IFCE) in Brazil. Also, I have a technical course in Electrotechnical at IFCE.
 
@@ -18,14 +18,14 @@
 
 
  
-## :globe_with_meridians: Links:
+## :globe_with_meridians: Links and Email:
 * :page_with_curl: Check out my [LinkedIn](https://www.linkedin.com/in/lu%C3%ADs-fernando-matias-de-farias-52234b20a/)
 * :computer: How to reach me fluisfm20@gmail.com
 
 
 
 ## :battery: Projects:
-Below are the codes that I've made:
+### Below are the codes that I've made:
 
 * **:ship:  Titanic: Machine Learning from disaster:** https://bit.ly/2QFW37U
 
