@@ -17,7 +17,7 @@
 **Background in:** Python, Machine Learning, MATLAB, Deep Learning, TensorFlow, and Scikit Learn.
 
 <p>
-<img src= "https://github.com/valohai/ml-logos/blob/master/scikit-learn.svg" width="200" height="200"> <img src= "https://github.com/valohai/ml-logos/blob/master/pandas.svg" width="140" height="140"> <img src= "https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" width="140" height="140"> <img src= "https://github.com/valohai/ml-logos/blob/master/numpy.svg" width="140" height="140"> <img src= "https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg" width="50" height="140"> <img src= "https://github.com/valohai/ml-logos/blob/master/keras.svg" width="50" height="140"> 
+<img src= "https://github.com/valohai/ml-logos/blob/master/scikit-learn.svg" width="200" height="160"> <img src= "https://github.com/valohai/ml-logos/blob/master/pandas.svg" width="140" height="140"> <img src= "https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" width="140" height="140"> <img src= "https://github.com/valohai/ml-logos/blob/master/numpy.svg" width="140" height="140"> <img src= "https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg" width="50" height="140"> <img src= "https://github.com/valohai/ml-logos/blob/master/keras.svg" width="50" height="140"> 
 <p>
  
 
