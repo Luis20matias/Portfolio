@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="banner_Luis.png" >
+  <img src="Luis_portfolio.png" >
 </p>
 
 # Luís Fernando Matias de Farias
