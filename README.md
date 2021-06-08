@@ -14,7 +14,7 @@
 * :mag: Searching for new remote jobs with Data Science and Machine Learning using Python language.
 
 
-**Background in:** Python, Machine Learning, MATLAB, Deep Learning, TensorFlow.
+**Background in:** Python, Machine Learning, MATLAB, Deep Learning, TensorFlow, and Scikit Learn.
 
 
  
