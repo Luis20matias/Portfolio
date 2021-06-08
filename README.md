@@ -14,11 +14,13 @@
 * :mag: Searching for new remote jobs with Data Science and Machine Learning using Python language.
 
 
-**Background in:** Python, Machine Learning, MATLAB and Deep Learning.
+**Background in:** Python, Machine Learning, MATLAB, Deep Learning, TensorFlow.
 
+
+ 
 ## :globe_with_meridians: Links:
-* [LinkedIn](https://www.linkedin.com/in/lu%C3%ADs-fernando-matias-de-farias-52234b20a/)
-* [Medium](https://medium.com/@fluisfm20)
+* :page_with_curl: Check out my [LinkedIn](https://www.linkedin.com/in/lu%C3%ADs-fernando-matias-de-farias-52234b20a/)
+* :computer: How to reach me fluisfm20@gmail.com
 
 
 
