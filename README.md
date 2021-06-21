@@ -30,8 +30,9 @@
 ## :battery: Projects:
 ### Below are the codes that I've made:
 
+* **:necktie: Predict attrition of your valuable employees:** https://bit.ly/3cZ2DhI
 * **:ship:  Titanic: Machine Learning from disaster:** https://bit.ly/2QFW37U
-
+ 
 ---
 
 
