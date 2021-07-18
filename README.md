@@ -16,7 +16,7 @@
 * :mag: Searching for new remote jobs with Data Science and Machine Learning using Python language.
 
 
-**Background in:** Python, Machine Learning, Deep Learning, TensorFlow, and Scikit Learn.
+**Background in:** Python, Machine Learning, Deep Learning, TensorFlow, Keras, and Scikit Learn.
 
 <p>
 <img src= "https://github.com/valohai/ml-logos/blob/master/scikit-learn.svg" width="160" height="160"> <img src= "https://github.com/valohai/ml-logos/blob/master/pandas.svg" width="100" height="140"> <img src= "https://github.com/valohai/ml-logos/blob/master/numpy.svg" width="100" height="140"><img src= "https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" width="100" height="140"> <img src= "https://github.com/valohai/ml-logos/blob/master/scipy.svg" width="40" height="140">  <img src= "https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg" width="40" height="140"> <img src= "https://github.com/valohai/ml-logos/blob/master/keras.svg" width="40" height="140"> 
