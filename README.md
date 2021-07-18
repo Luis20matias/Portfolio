@@ -7,6 +7,8 @@
 # :pushpin: Luís Fernando Matias de Farias
 ## :dart: Data Scientist
 
+ * :clipboard: I have a bachelor's degree in Mechatronics Engineering. I am certificated in Artificial Intelligence by Huawei, so I know about theconcepts and applications using Machine Learningand Deep Learning. Seeking a Junior Data Scientist position that applies extensive experience in Statistical Methods, Data Analysis, and Machine Learning to critical questions in data-heavy services.
+ 
 * :mortar_board: I am graduated in Mechatronics Engineering from the Federal Institute of Education, Science, and Technology of Ceará (IFCE) in Brazil. Also, I have a technical course in Electrotechnical at IFCE.
 
 * :books: I've completed an English course at Municipal Human Resources Development Institute (Imparh) in Brazil.
@@ -32,6 +34,14 @@
 
 * **:necktie: Predict attrition of your valuable employees:** https://bit.ly/3xOxGVT
 * **:ship:  Titanic: Machine Learning from disaster:** https://bit.ly/2QFW37U
+ 
+ 
+## :pencil: Certificates: 
+ 
+ * **HCIA- Artificial Intelligence. (Huawei)**
+ * **HCIA- Huawei Certification. (Huawei)**
+ * **Machine Learning e Data Science com Python de A a Z. (IAExpert Academy)**
+ * **Current doing the course Introduction to Deep Learning from HSE. (Coursera)**
  
 ---
 
