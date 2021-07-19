@@ -32,7 +32,8 @@
 ## :battery: Projects:
 ### Below are the codes that I've made:
 
-* **:necktie: Predict attrition of your valuable employees:** https://bit.ly/3xOxGVT
+* **:necktie: Predict attrition of your valuable employees:** https://bit.ly/3BlMOMC
+* **bar_chart: Customer Segmentation for Marketing Strategy:** https://bit.ly/2URwX7Y
 * **:ship:  Titanic: Machine Learning from disaster:** https://bit.ly/2QFW37U
  
  
