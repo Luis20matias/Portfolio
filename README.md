@@ -13,7 +13,7 @@
 
 * :books: I've completed an English course at Municipal Human Resources Development Institute (Imparh) in Brazil.
 
-* :mag: Searching for new remote jobs with Data Science and Machine Learning using Python language.
+* :mag: Searching for new remote jobs with Data Science and Machine Learning.
 
 
 **Background in:** Python, Machine Learning, Deep Learning, TensorFlow, Keras, and Scikit Learn.
