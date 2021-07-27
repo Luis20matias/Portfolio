@@ -3,8 +3,17 @@
 <p>
  <img src="Luis_portfolio1.png" width="500" height="200"/ >
 <p>
-
+ 
 # :pushpin: Luís Fernando Matias de Farias
+ 
+
+## :battery: Projects:
+### Below are the codes that I've made:
+
+* **:necktie: Predict attrition of your valuable employees:** https://bit.ly/3BlMOMC
+* **:bar_chart: Customer Segmentation for Marketing Strategy:** https://bit.ly/2URwX7Y
+* **:ship:  Titanic: Machine Learning from disaster:** https://bit.ly/2QFW37U 
+ 
 ## :dart: Data Scientist
 
  * :clipboard: I have a bachelor's degree in Mechatronics Engineering. I am certificated in Artificial Intelligence by Huawei, so I know about theconcepts and applications using Machine Learningand Deep Learning. Seeking a Junior Data Scientist position that applies extensive experience in Statistical Methods, Data Analysis, and Machine Learning to critical questions in data-heavy services.
@@ -27,15 +36,6 @@
 * :page_with_curl: Check out my [LinkedIn](https://www.linkedin.com/in/lu%C3%ADs-fernando-matias-de-farias-52234b20a/)
 * :computer: How to reach me fluisfm20@gmail.com
 
-
-
-## :battery: Projects:
-### Below are the codes that I've made:
-
-* **:necktie: Predict attrition of your valuable employees:** https://bit.ly/3BlMOMC
-* **:bar_chart: Customer Segmentation for Marketing Strategy:** https://bit.ly/2URwX7Y
-* **:ship:  Titanic: Machine Learning from disaster:** https://bit.ly/2QFW37U
- 
  
 ## :pencil: Certificates: 
  
