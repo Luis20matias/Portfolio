@@ -43,6 +43,7 @@
  * **HCIA- Huawei Certification. (Huawei)**
  * **Machine Learning e Data Science com Python de A a Z. (IAExpert Academy)**
  * **Current doing the course Introduction to Deep Learning from HSE. (Coursera)**
+ * **Current doing the course SQL for Data Science from UNIVERSITY OF CALIFORNIA. (Coursera)**
  
 ---
 
