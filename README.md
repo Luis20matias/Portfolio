@@ -17,6 +17,7 @@
 * **:syringe:  Covid data analisys:** https://bit.ly/39EQTCO
 * **:hospital:  Covid cases prediction - ARIMA and SARIMAX:** https://bit.ly/3y45ocD
 * **:skull:  Covid death prediction - ARIMA and SARIMAX:** https://bit.ly/3xYsEI3
+* **:cloud: How to make a deployment on SageMaker:** https://bit.ly/3N4vwIK
  
 ## :dart: Data Scientist
 
