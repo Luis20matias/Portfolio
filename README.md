@@ -15,6 +15,8 @@
 * **:ship:  Titanic: Machine Learning from disaster:** https://bit.ly/2QFW37U
 * **:movie_camera:  NLP sentiment analisys of films:** https://bit.ly/3OtBunp
 * **:syringe:  Covid data analisys:** https://bit.ly/39EQTCO
+* **:hospital:  Covid cases prediction - ARIMA and SARIMAX:** https://bit.ly/3y45ocD
+* **:skull:  Covid death prediction - ARIMA and SARIMAX:** https://bit.ly/3xYsEI3
  
 ## :dart: Data Scientist
 
