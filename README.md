@@ -18,7 +18,8 @@
 * **:hospital:  Covid cases prediction - ARIMA and SARIMAX:** https://bit.ly/3y45ocD
 * **:skull:  Covid death prediction - ARIMA and SARIMAX:** https://bit.ly/3xYsEI3
 * **:cloud: How to make a deployment on SageMaker:** https://bit.ly/3N4vwIK
-* **:globe_with_meridians: Web scraping in a car website:** https://bit.ly/3QCwKha 
+* **:globe_with_meridians: Web scraping in a car website:** https://bit.ly/3QCwKha
+* **:pencil2: Portuguese spell checker:** https://bit.ly/3tZ02wO
  
 ## :dart: Data Scientist
 
