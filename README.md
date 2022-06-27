@@ -20,6 +20,7 @@
 * **:cloud: How to make a deployment on SageMaker:** https://bit.ly/3N4vwIK
 * **:globe_with_meridians: Web scraping in a car website:** https://bit.ly/3QCwKha
 * **:pencil2: Portuguese spell checker:** https://bit.ly/3tZ02wO
+* **:capital_abcd: Language detection:** https://bit.ly/3A911yC
  
 ## :dart: Data Scientist
 
