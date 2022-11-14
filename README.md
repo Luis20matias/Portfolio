@@ -10,7 +10,7 @@
 ## :battery: Projects:
 ### Below are the codes that I've made:
 
-* **:taxi: New York City Taxi - Azure Synapses:** https://bit.ly/3Xd131w
+* **:taxi: New York City Taxi - Azure Synapses Analytics:** https://bit.ly/3Xd131w
 * **:necktie: Predict attrition of your valuable employees:** https://bit.ly/3BlMOMC
 * **:bar_chart: Customer Segmentation for Marketing Strategy:** https://bit.ly/2URwX7Y
 * **:ship:  Titanic: Machine Learning from disaster:** https://bit.ly/2QFW37U
