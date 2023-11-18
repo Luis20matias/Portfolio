@@ -10,7 +10,8 @@
 ## :battery: Projects:
 ### Below are the codes that I've made:
 
-* **::heavy_plus_sign:: DBT :** https://shorturl.at/jnKNX
+* **:scroll: Voting app Kubernetes:** https://shorturl.at/fnAFU
+* **:heavy_plus_sign: DBT:** https://shorturl.at/jnKNX
 * **:gift: Databricks :** https://shorturl.at/vyBIU
 * **:white_flower: Airflow - Project involving the main concepts for Airflow:** http://bitly.ws/KNVn
 * **:taxi: New York City Taxi - Azure Synapses Analytics:** https://bit.ly/3Xd131w
