@@ -38,7 +38,7 @@
  
 
 ## :globe_with_meridians: Links and Email:
-* :page_with_curl: Check out my [LinkedIn](https://www.linkedin.com/in/lu%C3%ADs-fernando-matias-de-farias-52234b20a/)
+* :page_with_curl: Check out my [LinkedIn](https://www.linkedin.com/in/lu%C3%ADs-fernando-matias-de-farias-52234b20a/?locale=en_US)
 * :computer: How to reach me fluisfm20@gmail.com
 
  
