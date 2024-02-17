@@ -20,9 +20,9 @@
 * **:snowflake: :octocat: Load Data with Snowpark - Python:** https://bit.ly/3nhfSD0
 * **:snowflake: :mag_right: Customer Churn Data Analyses with Snowpark-Python:** https://bit.ly/3oX0g7X
 * **:snowflake: :outbox_tray: Snowpark UDF Deployment:** https://bit.ly/3Ln2pS2
-* * **:snowflake: :page_with_curl: Snowpark Procedures with Python:** https://bit.ly/3nhgeJQ
-* * **:syringe:  Covid data analysis:** https://bit.ly/39EQTCO
-* * **:globe_with_meridians: Web scraping in a car website:** https://bit.ly/3QCwKha
+* **:snowflake: :page_with_curl: Snowpark Procedures with Python:** https://bit.ly/3nhgeJQ
+* **:syringe:  Covid data analysis:** https://bit.ly/39EQTCO
+* **:globe_with_meridians: Web scraping in a car website:** https://bit.ly/3QCwKha
 
 #### Data Scientist Projects
 * **:necktie: Predict attrition of your valuable employees:** https://bit.ly/3BlMOMC
