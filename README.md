@@ -8,8 +8,9 @@
  
 
 ## :battery: Projects:
-### Below are the codes that I've made:
+### Below are the projects that I've made:
 
+#### Data Engineer Projects
 * **:scroll: Voting app Kubernetes:** https://shorturl.at/fnAFU
 * **:heavy_plus_sign: DBT:** https://shorturl.at/jnKNX
 * **:gift: Databricks :** https://shorturl.at/vyBIU
@@ -19,16 +20,18 @@
 * **:snowflake: :octocat: Load Data with Snowpark - Python:** https://bit.ly/3nhfSD0
 * **:snowflake: :mag_right: Customer Churn Data Analyses with Snowpark-Python:** https://bit.ly/3oX0g7X
 * **:snowflake: :outbox_tray: Snowpark UDF Deployment:** https://bit.ly/3Ln2pS2
-* **:snowflake: :page_with_curl: Snowpark Procedures with Python:** https://bit.ly/3nhgeJQ
+* * **:snowflake: :page_with_curl: Snowpark Procedures with Python:** https://bit.ly/3nhgeJQ
+* * **:syringe:  Covid data analysis:** https://bit.ly/39EQTCO
+* * **:globe_with_meridians: Web scraping in a car website:** https://bit.ly/3QCwKha
+
+#### Data Scientist Projects
 * **:necktie: Predict attrition of your valuable employees:** https://bit.ly/3BlMOMC
 * **:bar_chart: Customer Segmentation for Marketing Strategy:** https://bit.ly/2URwX7Y
 * **:ship:  Titanic: Machine Learning from disaster:** https://bit.ly/2QFW37U
 * **:movie_camera:  NLP sentiment analysis of films:** https://bit.ly/3OtBunp
-* **:syringe:  Covid data analysis:** https://bit.ly/39EQTCO
 * **:hospital:  Covid cases prediction - ARIMA and SARIMAX:** https://bit.ly/3y45ocD
 * **:skull:  Covid death prediction - ARIMA and SARIMAX:** https://bit.ly/3xYsEI3
 * **:cloud: How to make a deployment on AWS SageMaker:** https://bit.ly/3N4vwIK
-* **:globe_with_meridians: Web scraping in a car website:** https://bit.ly/3QCwKha
 * **:pencil2: Portuguese spell checker:** https://bit.ly/3tZ02wO
 * **:capital_abcd: Language detection:** https://bit.ly/3A911yC
  
