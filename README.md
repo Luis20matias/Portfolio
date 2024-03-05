@@ -35,10 +35,7 @@
 * **:pencil2: Portuguese spell checker:** https://bit.ly/3tZ02wO
 * **:capital_abcd: Language detection:** https://bit.ly/3A911yC
  
-<p>
-<img src= "https://github.com/valohai/ml-logos/blob/master/scikit-learn.svg" width="160" height="160"> <img src= "https://github.com/valohai/ml-logos/blob/master/pandas.svg" width="100" height="140"> <img src= "https://github.com/valohai/ml-logos/blob/master/numpy.svg" width="100" height="140"><img src= "https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" width="100" height="140"> <img src= "https://github.com/valohai/ml-logos/blob/master/scipy.svg" width="40" height="140">  <img src= "https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg" width="40" height="140"> <img src= "https://github.com/valohai/ml-logos/blob/master/keras.svg" width="40" height="140"> 
-<p>
- 
+
 
 ## :globe_with_meridians: Links and Email:
 * :page_with_curl: Check out my [LinkedIn](https://www.linkedin.com/in/lu%C3%ADs-fernando-matias-de-farias-52234b20a/?locale=en_US)
