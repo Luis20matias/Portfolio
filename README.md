@@ -12,6 +12,7 @@
 
 #### Data Engineer Projects
 * **:scroll: Voting app Kubernetes:** https://shorturl.at/fnAFU
+* * **:outbox_tray: Cosmos: Airflow + dbt** https://shorturl.at/egNO5
 * **:heavy_plus_sign: DBT:** https://shorturl.at/jnKNX
 * **:gift: Databricks :** https://shorturl.at/vyBIU
 * **:white_flower: Airflow - Project involving the main concepts for Airflow:** http://bitly.ws/KNVn
