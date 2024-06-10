@@ -15,7 +15,7 @@
 * **:snowflake: :outbox_tray: Cosmos: Airflow + dbt + Snowflake** https://shorturl.at/egNO5
 * **:heavy_plus_sign: DBT:** https://shorturl.at/jnKNX
 * **:gift: Databricks :** https://shorturl.at/vyBIU
-* **:white_flower: Airflow - Project involving the main concepts for Airflow:** http://bitly.ws/KNVn
+* **:white_flower: Airflow - Project involving the main concepts for Airflow:** http://bitly.ws/KNVn](https://shorturl.at/eiws8
 * **:taxi: New York City Taxi - Azure Synapses Analytics:** https://bit.ly/3Xd131w
 * **:snowflake: Snowflake Medallion Data Pipeline:** https://rb.gy/d5i3g
 * **:snowflake: :octocat: Load Data with Snowpark - Python:** https://bit.ly/3nhfSD0
