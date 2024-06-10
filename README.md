@@ -4,7 +4,7 @@
  <img src="data_banner.jpeg" width="900" height="200"/ >
 <p>
  
-# :pushpin: Luís Fernando Matias de Farias
+# :pushpin: Luís Farias
  
 
 ## :battery: Projects:
