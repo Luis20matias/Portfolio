@@ -11,6 +11,7 @@
 ### Below are the projects that I've made:
 
 #### Data Engineer Projects
+* **:rabbit2: :star2: Modern data Stack (Terraform, Argo, Kubernetes, MinIO, Iceberg, Trino, dbt, Airflow, Metabase):** https://bit.ly/3XKjnl7
 * **:scroll: Voting app Kubernetes:** https://shorturl.at/fnAFU
 * **:snowflake: :outbox_tray: Cosmos: Airflow + dbt + Snowflake** https://shorturl.at/egNO5
 * **:heavy_plus_sign: DBT:** https://shorturl.at/jnKNX
