@@ -12,13 +12,15 @@
 
 #### Data Engineer Projects
 * **:rabbit2: :star2: Modern data Stack (Terraform, Argo, Kubernetes, MinIO, Iceberg, Trino, dbt, Airflow, Metabase):** https://bit.ly/3XKjnl7
-* **:star2: Spark Series:** https://bit.ly/3ZbtMqZ
+* **:star2: Spark Series Fundamentals:** https://bit.ly/3ZbtMqZ
+* **:star2: Spark Series Specialization:** https://bit.ly/4gB83yL
+* **:star2: Spark Series Advance:** https://bit.ly/4eePEGp
 * **:rabbit: Trino Series:** https://bit.ly/4e7YrK1
 * **:scroll: Voting app Kubernetes:** https://shorturl.at/fnAFU
 * **:snowflake: :outbox_tray: Cosmos: Airflow + dbt + Snowflake** https://shorturl.at/egNO5
 * **:heavy_plus_sign: DBT:** https://shorturl.at/jnKNX
 * **:gift: Databricks :** https://shorturl.at/vyBIU
-* **:white_flower: Airflow - Project involving the main concepts for Airflow:** http://bitly.ws/KNVn](https://shorturl.at/eiws8
+* **:white_flower: Airflow - Project involving the main concepts for Airflow:** https://bit.ly/4gysUCW
 * **:taxi: New York City Taxi - Azure Synapses Analytics:** https://bit.ly/3Xd131w
 * **:snowflake: Snowflake Medallion Data Pipeline:** https://rb.gy/d5i3g
 * **:snowflake: :octocat: Load Data with Snowpark - Python:** https://bit.ly/3nhfSD0
