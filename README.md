@@ -14,7 +14,7 @@
 * **:rabbit2: :star2: Modern data Stack (Terraform, Argo, Kubernetes, MinIO, Iceberg, Trino, dbt, Airflow, Metabase):** https://bit.ly/3XKjnl7
 * **:star2: Spark Series Fundamentals:** https://bit.ly/3ZbtMqZ
 * **:star2: Spark Series Specialization:** https://bit.ly/4gB83yL
-* **:star2: Spark Series Advance:** https://bit.ly/4eePEGp
+* **:star2: Spark Series Advanced:** https://bit.ly/4eePEGp
 * **:rabbit: Trino Series:** https://bit.ly/4e7YrK1
 * **:scroll: Voting app Kubernetes:** https://shorturl.at/fnAFU
 * **:snowflake: :outbox_tray: Cosmos: Airflow + dbt + Snowflake** https://shorturl.at/egNO5
